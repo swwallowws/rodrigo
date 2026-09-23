@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 Allow: /
-Sitemap: https://supiket.github.io/rodrigo/sitemap.xml
+Sitemap: https://swwallowws.github.io/rodrigo/sitemap.xml

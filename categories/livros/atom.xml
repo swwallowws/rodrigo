@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt-br">
     <title>Autor Rodrigo de Jesus - livros</title>
     <subtitle>Rodrigo de Jesus nasceu em Ponta Grossa, no Paraná, mas nunca parou na paragem dos tropeiros. Desde cedo, talvez guiado pelas mesmas estrelas dos seus ancestrais ciganos, viveu em diversas cidades dos interiores brasileiros, tanto com sua família como sozinho. Enquanto viajava pelas estradas, aventurava-se também na literatura e na elaboração das suas próprias histórias. Trabalhou nos mais diferentes lugares, de restaurantes e vendas ambulantes a bibliotecas e centros culturais, o que enriqueceu sua formação como autor. Cursou Letras na UFPR e atuou por um tempo no Programa Curitiba Lê desenvolvendo projetos de leitura em Curitiba. Em 2020, foi um dos vencedores do Prêmio Biblioteca Digital, com o romance Tapiribi, iniciando sua carreira de escritor. Atualmente vive em Lisboa e conhece todas as árvores de Araucária que existem ali.</subtitle>
-    <link rel="self" type="application/atom+xml" href="https://supiket.github.io/rodrigo/categories/livros/atom.xml"/>
-    <link rel="alternate" type="text/html" href="https://supiket.github.io/rodrigo/"/>
+    <link rel="self" type="application/atom+xml" href="https://swwallowws.github.io/rodrigo/categories/livros/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://swwallowws.github.io/rodrigo/"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2025-01-01T00:00:00+00:00</updated>
-    <id>https://supiket.github.io/rodrigo/categories/livros/atom.xml</id>
+    <id>https://swwallowws.github.io/rodrigo/categories/livros/atom.xml</id>
     <entry xml:lang="pt-br">
         <title>A viagem do peixe-de-gaiola</title>
         <published>2025-01-01T00:00:00+00:00</published>
@@ -20,10 +20,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://supiket.github.io/rodrigo/projects/a-viagem-do-peixe-do-gaiola/"/>
-        <id>https://supiket.github.io/rodrigo/projects/a-viagem-do-peixe-do-gaiola/</id>
+        <link rel="alternate" type="text/html" href="https://swwallowws.github.io/rodrigo/projects/a-viagem-do-peixe-do-gaiola/"/>
+        <id>https://swwallowws.github.io/rodrigo/projects/a-viagem-do-peixe-do-gaiola/</id>
         
-        <content type="html" xml:base="https://supiket.github.io/rodrigo/projects/a-viagem-do-peixe-do-gaiola/"></content>
+        <content type="html" xml:base="https://swwallowws.github.io/rodrigo/projects/a-viagem-do-peixe-do-gaiola/"></content>
         
     </entry>
     <entry xml:lang="pt-br">
@@ -39,8 +39,8 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://supiket.github.io/rodrigo/projects/minha-propria-sombra/"/>
-        <id>https://supiket.github.io/rodrigo/projects/minha-propria-sombra/</id>
+        <link rel="alternate" type="text/html" href="https://swwallowws.github.io/rodrigo/projects/minha-propria-sombra/"/>
+        <id>https://swwallowws.github.io/rodrigo/projects/minha-propria-sombra/</id>
         
         <summary type="html">&lt;p&gt;Um romance por Rodrigo de Jesus&lt;&#x2F;p&gt;</summary>
         
@@ -58,8 +58,8 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://supiket.github.io/rodrigo/projects/tapiribi/"/>
-        <id>https://supiket.github.io/rodrigo/projects/tapiribi/</id>
+        <link rel="alternate" type="text/html" href="https://swwallowws.github.io/rodrigo/projects/tapiribi/"/>
+        <id>https://swwallowws.github.io/rodrigo/projects/tapiribi/</id>
         
         <summary type="html">&lt;p&gt;Margens Penadas&lt;&#x2F;p&gt;</summary>
         
